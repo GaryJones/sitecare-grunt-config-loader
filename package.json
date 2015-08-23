@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "load-grunt-config": "~0.17",
-    "lodash": "~3.3",
-    "time-grunt": "~1.0"
+    "lodash": "~3.10",
+    "time-grunt": "~1.2"
   }
 }
